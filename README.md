@@ -75,4 +75,5 @@ Recruiter Ready: Demonstrates ability to handle real-world ML projects, data vis
 
 Live Demo
 
-🚀 Try the app live: Fashion Trend Prediction & Recommendation System(https://saireddy81797-fashion-trend-prediction-recommendatio-app-ogkg9z.streamlit.app/)
+🚀 Try the app live: [Fashion Trend Prediction & Recommendation System](https://saireddy81797-fashion-trend-prediction-recommendatio-app-ogkg9z.streamlit.app/)
+
