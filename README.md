@@ -73,7 +73,8 @@ Customer: Improves shopping experience with personalized recommendations.
 
 Recruiter Ready: Demonstrates ability to handle real-world ML projects, data visualization, and web deployment.
 
-Live Demo
+
+##Live Demo
 
 🚀 Try the app live: [Fashion Trend Prediction & Recommendation System](https://saireddy81797-fashion-trend-prediction-recommendatio-app-ogkg9z.streamlit.app/)
 
